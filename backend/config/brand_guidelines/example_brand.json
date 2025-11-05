@@ -1,0 +1,36 @@
+{
+  "brand_name": "flin",
+  "tone_of_voice": [
+    "professionell",
+    "zugänglich",
+    "innovativ"
+  ],
+  "prohibited_words": [
+    "billig",
+    "Schnäppchen",
+    "kostenlos",
+    "gratis"
+  ],
+  "color_palette": {
+    "primary": "#FF6B35",
+    "secondary": "#004E89",
+    "accent": "#F7B32B"
+  },
+  "visual_style": "minimalistisch, hell, kontrastreich",
+  "values": [
+    "Transparenz",
+    "Qualität",
+    "Nachhaltigkeit"
+  ],
+  "typography": {
+    "allowed_fonts": [
+      "Inter",
+      "Helvetica",
+      "Arial"
+    ],
+    "prohibited_fonts": [
+      "Comic Sans",
+      "Papyrus"
+    ]
+  }
+}
